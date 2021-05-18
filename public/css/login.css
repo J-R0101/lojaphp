@@ -1,0 +1,19 @@
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+
+.form-login{
+   flex-basis: 450px;
+   
+}
+
+.card-header{
+    display: flex;
+    justify-content: center;
+    background: radial-gradient(circle, #fbb600, #da5900);
+}
